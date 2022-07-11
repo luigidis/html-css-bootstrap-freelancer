@@ -60,3 +60,15 @@ a {
 .img_rounded_container {
     max-width: 422px;
 }
+
+.list_unstyled hr {
+    max-width: 1130px;
+}
+
+.button_send {
+    margin-top: 165px;
+}
+
+.hr_margin_bot {
+    margin-bottom: 2rem;
+}
