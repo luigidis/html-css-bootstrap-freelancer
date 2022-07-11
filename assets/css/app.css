@@ -4,11 +4,40 @@
     --footer-blue: #3A546D;
 }
 
-.navbar_me {
-    background-color: var(--navbarbg-blue);
-}
-
 a {
     text-decoration: none;
 }
 
+.navbar_me {
+    background-color: var(--navbarbg-blue);
+}
+
+.navbar_me_height {
+    height: 6.25rem;
+}
+
+.color_cyan_section {
+    background-color: var(--maincontent-cyan);
+}
+
+.navbar_first_col {
+    font-size: 2rem;
+}
+
+.padding_top_first_section {
+    padding-top: 5rem;
+}
+
+.star_size {
+    font-size: 2.5rem;
+    margin-top: 1.875rem;
+    margin-bottom: 2.25rem;
+}
+
+.list_first_section_size {
+    font-size: 1.875rem;
+}
+
+.start_bootstrap_size {
+    font-size: 4.25rem;
+}
