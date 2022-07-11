@@ -2,6 +2,12 @@
     --navbarbg-blue: #2C3E50;
     --maincontent-cyan: #1ABC9C;
     --footer-blue: #3A546D;
+    --sectionimg-red: #BA4B63;
+    --sectionimg-cyan: #1EA4B6;
+    --sectionimg-black: #140F0F;
+    --sectionimg-lightblue: #1C83C1;
+    --sectionimg-darkblue: #0E38B5;
+    --sectionimg-grey: #CCB2A3;
 }
 
 a {
@@ -41,3 +47,8 @@ a {
 .start_bootstrap_size {
     font-size: 4.25rem;
 }
+
+.star_color_blue {
+    color: var(--navbarbg-blue);
+}
+
