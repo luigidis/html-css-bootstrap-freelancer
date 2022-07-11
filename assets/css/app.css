@@ -1,0 +1,14 @@
+:root {
+    --navbarbg-blue: #2C3E50;
+    --maincontent-cyan: #1ABC9C;
+    --footer-blue: #3A546D;
+}
+
+.navbar_me {
+    background-color: var(--navbarbg-blue);
+}
+
+a {
+    text-decoration: none;
+}
+
