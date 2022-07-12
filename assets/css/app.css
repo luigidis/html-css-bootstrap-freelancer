@@ -47,7 +47,7 @@ a {
     color: var(--navbarbg-blue);
 }
 
-.b_color_try {
+.img_color_darkblue {
     background-color: var(--sectionimg-darkblue);
 }
 
@@ -65,4 +65,29 @@ a {
 
 .hr_margin_bot {
     margin-bottom: 2rem;
+}
+
+.py-6 {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.img_color_red {
+    background-color: var(--sectionimg-red);
+}
+
+.img_color_cyan {
+    background-color: var(--sectionimg-cyan);
+}
+
+.img_color_black {
+    background-color: var(--sectionimg-black);
+}
+
+.img_color_lightblue {
+    background-color: var(--sectionimg-lightblue);
+}
+
+.img_color_grey {
+    background-color: var(--sectionimg-grey);
 }
