@@ -91,3 +91,11 @@ a {
 .img_color_grey {
     background-color: var(--sectionimg-grey);
 }
+
+.bg_color_footer_darkblue {
+    background-color: var(--footer-blue);
+}
+
+.bg_color_footer_lightblue {
+    background-color: var(--navbarbg-blue);
+}
