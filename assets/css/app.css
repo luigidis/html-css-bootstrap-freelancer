@@ -23,20 +23,14 @@ a {
     background-color: var(--maincontent-cyan);
 }
 
-
-
 .padding_top_first_section {
+
     padding-top: 5rem;
 }
 
 .star_size {
-    font-size: 2.5rem;
     margin-top: 1.875rem;
     margin-bottom: 2.25rem;
-}
-
-.list_first_section_size {
-    font-size: 1.875rem;
 }
 
 .start_bootstrap_size {
@@ -55,19 +49,14 @@ a {
     max-width: 422px;
 }
 
-.list_unstyled hr {
-    max-width: 1130px;
-}
-
-.button_send {
-    margin-top: 165px;
-}
-
-.hr_margin_bot {
-    margin-bottom: 2rem;
-}
-
 .px-6 {
+
+
+
+
+
+
+
     padding-left: 70px;
     padding-right: 70px;
 }
@@ -106,4 +95,20 @@ a {
 
 .max_w_avatar {
     max-width: 230px;
+}
+
+.bar {
+
+
+    background-color: white;
+    color: white;
+    border-radius: 5px;
+    max-width: 200px;
+    height: 5px;
+    
+}
+
+.bar_blue {
+
+    background-color: var(--navbarbg-blue);
 }
