@@ -99,3 +99,11 @@ a {
 .bg_color_footer_lightblue {
     background-color: var(--navbarbg-blue);
 }
+
+.h_6 {
+    height: 110px;
+}
+
+.max_w_avatar {
+    max-width: 230px;
+}
