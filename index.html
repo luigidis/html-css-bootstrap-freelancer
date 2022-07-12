@@ -27,10 +27,10 @@
                 <a class="nav-link active" aria-current="page" href="#">Portfolio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">About</a>
+                <a class="nav-link active" href="#">About</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link disabled">Contact</a>
+              <li class="nav-item ">
+                <a class="nav-link active">Contact</a>
               </li>
             </ul>
         </div>
@@ -121,28 +121,46 @@
         <div class="container text-center mt-5">
             <h3>Contact Me</h3>
             <i class="star_size star_color_blue fa-solid fa-star"></i>
-            <ul class="list-unstyled text-start">
-                <li>
-                    Name
-                </li>
+        </div>
+        <form class="container">
+            <div class="row">
+              <label for="inputEmail3" class="col-sm-3 col-form-label">Name</label>
+              <div class="col-sm-9">
+                <input type="email" class="form-control border-0" id="inputEmail3">
+              </div>
+              <div>
                 <hr>
-                <li>
-                    Email Address                    
-                </li>
-                <hr>
-                <li>
-                    Phone Number
-                </li>
-                <hr>
-                <li>
-                    Message
-                </li>
-            </ul>
-            <div class="button_send text-start">
-                <hr class="hr_margin_bot">
-                <a class="p-2 border rounded-3 mt-2 text-white color_cyan_section" href="#">Send</a>
+              </div>   
             </div>
-        </div>  
+            <div class="row">
+              <label for="inputEmail3" class="col-sm-3 col-form-label">Email Address</label>
+              <div class="col-sm-9">
+                <input type="email" class="form-control border-0" id="inputEmail3">
+              </div>
+              <div>
+                <hr>
+              </div>   
+            </div>
+            <div class="row">
+              <label for="inputPassword3" class="col-sm-3 col-form-label">Phone Number</label>
+              <div class="col-sm-9">
+                <input type="password" class="form-control border-0" id="inputPassword3">
+              </div>
+              <div>
+                <hr>
+              </div>
+            </div>
+            <div class="row">
+              <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+              <div class="col-sm-9">
+                <textarea class="form-control border-0" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+              <div>
+                <hr>
+              </div>
+            </div>
+            <button type="submit" class="btn color_cyan_section text-white">Send</button>
+          </form>    
     </section>
 
 
