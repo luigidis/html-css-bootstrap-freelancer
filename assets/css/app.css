@@ -19,10 +19,6 @@ a {
     background-color: var(--navbarbg-blue);
 }
 
-.navbar_me_height {
-    height: 6.25rem;
-}
-
 .color_cyan_section {
     background-color: var(--maincontent-cyan);
 }
