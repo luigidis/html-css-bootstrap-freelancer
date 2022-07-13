@@ -112,3 +112,11 @@ a {
 
     background-color: var(--navbarbg-blue);
 }
+
+.fs-7 {
+    font-size: 1rem;
+}
+
+.color_cyan {
+    color: var(--maincontent-cyan);
+}
